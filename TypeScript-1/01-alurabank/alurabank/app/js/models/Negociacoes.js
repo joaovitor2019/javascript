@@ -1,6 +1,6 @@
 class Negociacoes {
     constructor() {
-        this._negociacoes = []; // Negociacao[] = Array<Negociacao>
+        this._negociacoes = [];
     }
     adiciona(negociacao) {
         this._negociacoes.push(negociacao);
